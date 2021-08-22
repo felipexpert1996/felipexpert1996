@@ -15,7 +15,7 @@
 ### Statistics
 <div>
   <a href="https://github.com/felipexpert1996">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=felipexpert1996&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="53%" src="https://github-readme-stats.vercel.app/api?username=felipexpert1996&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipexpert1996&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
