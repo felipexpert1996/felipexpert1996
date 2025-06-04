@@ -1,10 +1,9 @@
 ### Hi there, i'm Felipe Alves 👋
 
 
-- 🔭 I’m currently studying about AWS services
-- 🌱 I’m currently learning flutter 
+- 🌱 I’m currently learning about AWS services 
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I'm from the sign of Pisces
+- ⚡ Fun fact: In my free time I like to play video games.
 
 ##
 
