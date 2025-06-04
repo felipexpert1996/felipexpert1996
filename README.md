@@ -1,7 +1,7 @@
 ### Hi there, i'm Felipe Alves 👋
 
 
-- 🔭 I’m currently working on full stack development
+- 🔭 I’m currently studying about AWS services
 - 🌱 I’m currently learning flutter 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm from the sign of Pisces
